@@ -1,0 +1,38 @@
+﻿  pch.cpp
+  marker0304.cpp
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker.hpp(103): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker.hpp(121): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker.hpp(122): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker.hpp(123): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker.hpp(124): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(97): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(301): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(301): note: 请考虑在格式字符串中使用“%zd”
+d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(305): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(305): note: 请考虑在格式字符串中使用“%zd”
+d:\vs2017\vc\tools\msvc\14.16.27023\include\utility(174): warning C4267: “初始化”: 从“size_t”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+  d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(184): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<size_t&,size_t&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=size_t &,
+              _Other2=size_t &
+          ]
+  d:\我的资料库\vs2017projects\实时姿态测量_v3\marker0304\marker0304.cpp(184): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<size_t&,size_t&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=size_t &,
+              _Other2=size_t &
+          ]
+d:\vs2017\vc\tools\msvc\14.16.27023\include\utility(174): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+  正在生成代码
+  All 2848 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  marker0304.vcxproj -> D:\我的资料库\vs2017Projects\实时姿态测量_v3\x64\Release\marker0304.exe

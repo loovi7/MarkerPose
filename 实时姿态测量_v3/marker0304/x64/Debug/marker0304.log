@@ -1,0 +1,34 @@
+﻿  marker0304.cpp
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker.hpp(102): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker.hpp(120): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker.hpp(121): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker.hpp(122): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker.hpp(123): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(72): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(220): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(220): note: 请考虑在格式字符串中使用“%zd”
+d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(224): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(224): note: 请考虑在格式字符串中使用“%zd”
+d:\vs2017\vc\tools\msvc\14.16.27023\include\utility(174): warning C4267: “初始化”: 从“size_t”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+  d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(163): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<size_t&,size_t&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=size_t &,
+              _Other2=size_t &
+          ]
+  d:\我的资料库\vs2017projects\marker0304\marker0304\marker0304.cpp(163): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<size_t&,size_t&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=size_t &,
+              _Other2=size_t &
+          ]
+d:\vs2017\vc\tools\msvc\14.16.27023\include\utility(174): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+  marker0304.vcxproj -> D:\我的资料库\vs2017Projects\marker0304\x64\Debug\marker0304.exe
